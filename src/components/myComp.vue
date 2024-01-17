@@ -1,6 +1,7 @@
 <template>
-  <button>My component button</button>
-  <router-link to="/about">My component link</router-link>
+  <button>My button</button>
+  <h1>Hello test</h1>
+  <router-link class="bg-red-500" to="/about">Go to about page</router-link>
 </template>
 
 <script setup lang="ts"></script>

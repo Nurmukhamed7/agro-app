@@ -5,6 +5,10 @@
   </div>
 </template>
 
+<script setup lang="ts">
+console.log('loaded')
+</script>
+
 <style>
 @media (min-width: 1024px) {
   .about {

@@ -18,7 +18,7 @@ const router = createRouter({
     },
     {
       path: '/my-new-page',
-      name: 'my',
+      name: 'my-new',
       component: MyNewView
     }
   ]

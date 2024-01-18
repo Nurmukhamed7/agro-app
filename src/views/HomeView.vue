@@ -6,4 +6,5 @@ import MyComp from '@/components/myComp.vue'
   <main>
     <MyComp />
   </main>
+  <h1>New</h1>
 </template>
